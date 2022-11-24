@@ -25,5 +25,5 @@ Table of Contents
 ### Topic Subtitle 2
 #### Topic Subtitle 3
 
-[TOC](https://miro.medium.com/max/640/1*t-jmArgnKSggf-h4uZ2qew.webp)
+![TOC](https://miro.medium.com/max/640/1*t-jmArgnKSggf-h4uZ2qew.webp)
 
